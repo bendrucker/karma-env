@@ -14,6 +14,5 @@
     root.__env = factory();
   }
 }(this, function () {
-  console.log(window.__karma__.config);
-  return window.__karma__.config.env
+  return window.__karma__.config.env || {};
 }));

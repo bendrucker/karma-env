@@ -4,7 +4,7 @@
   "description": "Karma plugin for providing configuration like superstatic/Divshot",
   "main": "./src/index.js",
   "scripts": {
-    "test": "karma start --single-run"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
@@ -30,9 +30,11 @@
   "devDependencies": {
     "chai": "~1.9.1",
     "karma": "~0.12.16",
+    "karma-as-promised": "~0.2.0",
     "karma-chai": "~0.1.0",
     "karma-mocha": "~0.1.4",
     "karma-phantomjs-launcher": "~0.1.4",
-    "mocha": "~1.20.1"
+    "mocha": "~1.20.1",
+    "xtend": "~3.0.0"
   }
 }
