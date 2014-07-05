@@ -7,5 +7,6 @@ deploy:
   api_key:
     secure: hql1uls4qo8ovmv4+SSeEI9y+BicN25ENm2bqLjtOZ/GKpfuEczn1DFWQ2CF6Rs0C0IHKKcyuppcnJZX07cZ/Mp5dBAAxDcsef7QsKGZ2kijgCK900hSdCuLLwqTYA+aTU71Luv9nqf0Dh411HLEBjg2ArraFVHwzOlWaq+vVaQ=
   on:
+    all_branches: true
     tags: true
     repo: bendrucker/karma-env
