@@ -1,6 +1,6 @@
 {
   "name": "karma-env",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Karma plugin for providing configuration like superstatic/Divshot",
   "main": "./src/index.js",
   "scripts": {
