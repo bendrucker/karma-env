@@ -1,4 +1,4 @@
-karma-env [![Build Status](https://travis-ci.org/bendrucker/karma-env.svg)](https://travis-ci.org/bendrucker/karma-env)
+karma-env [![Build Status](https://travis-ci.org/bendrucker/karma-env.svg)](https://travis-ci.org/bendrucker/karma-env) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/karma-env.svg)](https://greenkeeper.io/)
 =================
 
 Karma plugin for providing configuration as `window.__env`, mirroring [superstatic](https://github.com/divshot/superstatic)/[Divshot](http://www.divshot.com/) [(docs)](http://docs.divshot.com/guides/environment-variables). 
